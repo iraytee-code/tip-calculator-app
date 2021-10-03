@@ -50,8 +50,8 @@ Screenshot of the general overview of the site in mobile view.
 
 ### Links
 
-- Solution URL: [Challenge Solution](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub/sunnyside-agency-landing-page-ESM-9dMZl)
-- Live Site URL: [Loopstudios](https://iraytee-code.github.io/sunnyside-agency-landing-page-main/)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX/hub/tip-calculator-app-9lE7Q3kV5)
+- Live Site URL: [tip calculator app](https://iraytee-code.github.io/tip-calculator-app/)
 
 ## My process
 
